@@ -1,0 +1,16 @@
+@charset "utf-8";
+.container header {
+    background-color: #BB1013;
+}
+.container header nav {
+    background-color: #4D0D0E;
+}
+.container #hero {
+    background-image: url(images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-12-04%20143835.png);
+}
+.container #about {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,158,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,158,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,158,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,158,0,1.00) 100%);
+}
